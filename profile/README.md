@@ -8,7 +8,7 @@ Our,
 Project is based on PixelOS and Pixel Experience and tons of backend upstreams, fixes and soon we will get new interesting features
 
 ## Repositories that you may need to get started with our Project:
-- [Platform Manifest](https://github.com/Franxx-OS/manifest)
+- [Platform Manifest](https://github.com/FranxxOS-kazuwa/manifest)
 
 Now that we mentioned the important repositorie, now please check that you have all improvements picked from your end:
 
